@@ -10,4 +10,4 @@ if (randomNumber == userInput.guessedNumber) {
 else {
     console.log("Try again...");
 }
-console.log("Random Number is " + randomNumber);
+console.log("Thank you");
