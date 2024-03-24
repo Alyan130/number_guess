@@ -1,6 +1,6 @@
 {
   "name": "alyan3t8_number_guess",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple number guessing game",
   "main": "index.js",
   "type": "module",
